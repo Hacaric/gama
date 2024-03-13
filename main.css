@@ -1,0 +1,15 @@
+body {
+    background-image: url("imgs/backgrund1.png");
+    height: 100%;
+    background-size: cover;
+    position: sticky;
+}
+#main {
+    height: 8000px;
+    width: 80%;
+    background-color: white;
+    position: relative;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 14%;
+}
